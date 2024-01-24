@@ -22,9 +22,9 @@ A Licensee may consent to accepting the current Community Specification License 
 
 ---------------------------------------------------------------------------------
 
-Licensee’s name:
+Licensee’s name: Giles Stevenson
 
-Authorized individual and system identifier:
+Authorized individual and system identifier: gilesstevenson
 
 Specification version:
 
@@ -62,4 +62,4 @@ This section includes any Exclusion Notices made against a Draft Deliverable or 
     
 	(ii) identification of the specific part(s) of the Specification whose implementation makes the excluded claim a Necessary Claim.
 
------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
